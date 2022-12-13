@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Evaluator</string>
+    <string name="a">Sinhala Sign Language Alphabet</string>
+    <string name="evaluations">"Evaluations\n  "</string>
+</resources>
